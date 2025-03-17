@@ -1,3 +1,3 @@
-# Minor-Project-Semester-VII
+# Alzheimer's Detection using Speech
 
 Alzheimer Detection Using Speech 
